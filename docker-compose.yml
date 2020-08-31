@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  jupyter:
+    container_name: 'grafos1-stackoverflow-jupyter'
+    image: 'tiverons/jupyternotebook'
+    build:
+      context: ./notebooks
+      dockerfile: Dockerfile
+    volumes:
+      - "./:/notebooks"
+    ports:
+      - "8888:8888"
