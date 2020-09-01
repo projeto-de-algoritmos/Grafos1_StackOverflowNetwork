@@ -3,6 +3,7 @@ FROM python:3.7
 RUN pip install jupyter \
        matplotlib \
        pandas \
+       networkx
 
 VOLUME /notebooks
 
