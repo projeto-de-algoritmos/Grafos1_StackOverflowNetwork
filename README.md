@@ -1,4 +1,4 @@
-# GPS
+# StackOverflowNetwork
 
 **Número da Lista**: 1<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
@@ -10,7 +10,7 @@
 | 17/0115208  |  Victor Levi Peixoto |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto visa a exploração de assuntos comentados, bem como seus relacionamentos, no site [stackoverflow](https://stackoverflow.com/). Dessa forma é feita uma análise da disposição em grafos dos assuntos comentados na plataforma. 
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
