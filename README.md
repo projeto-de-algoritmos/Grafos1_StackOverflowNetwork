@@ -20,7 +20,7 @@ O projeto visa a exploração de assuntos comentados, bem como seus relacionamen
 ## Instalação
 **Linguagem**: Python3<br>
 **Framework**: Jupyter<br>
-Para rodar o projeto é necessário ter o docker-compose, de preferência no Linux.
+Para rodar o projeto é necessário ter o docker-compose, de preferência no Linux, e para instalar o docker-compose basta seguir o tutorial da página oficial do mesmo no [link](https://docs.docker.com/compose/install/).
 
 A partir do momento que se roda o comando  <code>sudo docker-compose build</code> os requisitos mínimos já são instalados automaticamente.
 
